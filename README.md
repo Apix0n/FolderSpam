@@ -26,8 +26,9 @@ Delete all created folders: [DelAllFolders.bat](https://github.com/Apix0n/Folder
 
 ## Tested on:
 
+  - Windows XP (Service Pack 3)
   - Windows Server 2016
   - Windows 10
   - Windows 11
 
-### Made with <3 by [Apix](https://github.com/Apix0n)
+### Made with ❤️ by [Apix](https://github.com/Apix0n)
