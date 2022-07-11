@@ -21,8 +21,8 @@
 
 ## Scripts
 
-Create folders: [FolderSpam.bat](https://github.com/Apix0n/FolderSpam/blob/main/FolderSpam.bat) / [Direct link](https://raw.githubusercontent.com/Apix0n/FolderSpam/master/FolderSpam.bat)  
-Delete all created folders: [DelAllFolders.bat](https://github.com/Apix0n/FolderSpam/blob/main/DelAllFolders.bat) / [Direct link](https://raw.githubusercontent.com/Apix0n/FolderSpam/master/DelAllFolders.bat)  
+Create folders: [FolderSpam.bat](https://github.com/Apix0n/FolderSpam/blob/master/FolderSpam.bat) / [Direct link](https://raw.githubusercontent.com/Apix0n/FolderSpam/master/FolderSpam.bat)  
+Delete all created folders: [DelAllFolders.bat](https://github.com/Apix0n/FolderSpam/blob/master/DelAllFolders.bat) / [Direct link](https://raw.githubusercontent.com/Apix0n/FolderSpam/master/DelAllFolders.bat)  
 
 ## Tested on:
 
